@@ -1,0 +1,4 @@
+
+return function(leng)
+    
+end;

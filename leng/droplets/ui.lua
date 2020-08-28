@@ -1,0 +1,2 @@
+
+ui = object:extend('ui');
