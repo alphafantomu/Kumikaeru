@@ -1,4 +1,0 @@
-
-love.draw = function()
-    
-end;

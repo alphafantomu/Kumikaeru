@@ -1,2 +1,0 @@
-
-dataType = root:extend('dataType');

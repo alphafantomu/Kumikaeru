@@ -1,4 +1,0 @@
-
-return function(pipe)
-    
-end;
